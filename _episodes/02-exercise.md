@@ -86,7 +86,7 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 > answered.
 {: .callout}
 
-![chapters][/fig/chapters]
+![chapters][../fig/chapters]
 
 > ## Note
 > The answers will be saved automatically.
