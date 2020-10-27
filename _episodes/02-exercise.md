@@ -15,15 +15,17 @@ keypoints:
 Follow the instructions below in order to get started
 
 * Go to [DS wizard](https://dsw.scilifelab.se/) and log in with your university credentials by clicking on the orange button.
-![dsw-homepage][dsw-homepage]
+
+    ![dsw-homepage](https://nbisweden.github.io/module-dmp-dm-practices/fig/dsw-homepage.jpg)
 
 
-Click on `Projects` in left-hand margin 
-![projects][/fig/projects]
+* Click on `Projects` in left-hand margin 
 
- 
-Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select knowledge model named `Intro DMP course module…` and click on `Save`
-![create_project][/fig/create_project]
+    ![projects](https://nbisweden.github.io/module-dmp-dm-practices/fig/projects.jpg)
+
+* Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select knowledge model named `Intro DMP course module…` and click on `Save`
+
+    ![create_project](https://nbisweden.github.io/module-dmp-dm-practices/fig/create_project.jpg)
 
 > ## Note
 >
@@ -84,9 +86,10 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 > Notice that once a question has been answered, it becomes green and the chapter 
 > display becomes ticked instead of showing the number of questions that should be 
 > answered.
+>
+> ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/chapters.jpg)
 {: .callout}
 
-![chapters][../fig/chapters]
 
 > ## Note
 > The answers will be saved automatically.
