@@ -39,6 +39,14 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 
 * Make sure the phase `Before Submitting the Proposal` is selected 
 
+* The answers will be saved automatically.
+
+*  Under most of the questions you will find guidance or advice on how to answer or what to consider. 
+
+* For some questions you may provide more than one answer. If you want to add a new answer click the `Add` button at the end of your last answer.
+ 
+* When using `Add` button you might need scroll up in order to get to the first field to be filled.
+
 * Your questionnaire will be displayed and is ready to be filled. 
 
 * Answer the questions in red (these are the questions that should be answered during the selected phase, questions which belong to other phases are in black) using the provided scenario below.
@@ -90,18 +98,10 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 > ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/chapters.jpg)
 {: .callout}
 
-
-> ## Note
-> The answers will be saved automatically.
->
-> Under most of the questions you will find guidance or advice on how to answer or 
-> what to consider. 
->
-> For some questions you may provide more than one answer. If you want to add a new 
-> answer click the `Add` button at the end of your last answer.
+> ## Solution
 > 
-> When using `Add` button you might need scroll up in order to get to the first field 
-> to be filled.
+> Please find a pre-filled DMP here: 
+> [https://dsw.scilifelab.se/projects/ff1b1f0f-4424-4d30-9f25-cba804bdacf8](https://dsw.scilifelab.se/projects/ff1b1f0f-4424-4d30-9f25-cba804bdacf8)
 {: .callout}
 
 {% include links.md %}
