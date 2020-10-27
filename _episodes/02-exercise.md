@@ -102,6 +102,6 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 > 
 > Please find a pre-filled DMP here: 
 > [https://dsw.scilifelab.se/projects/ff1b1f0f-4424-4d30-9f25-cba804bdacf8](https://dsw.scilifelab.se/projects/ff1b1f0f-4424-4d30-9f25-cba804bdacf8)
-{: .callout}
+{: .solution}
 
 {% include links.md %}
