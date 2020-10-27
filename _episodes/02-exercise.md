@@ -1,27 +1,29 @@
 ---
 title: "Exercise: Write a DMP"
-teaching: 15
-exercises: 1
-ojectives:
+teaching: 5
+exercises: 20
+questions:
+- "What does a typical DMP look like?"
+objectives:
 - "Using information provided in a scenario, create a data management plan using the [Data Stewardship wizard](http://dsw.scilifelab.se/)."
 keypoints:
 - "There are tools that make the writing process easier."
 - "Do not feel over-whelmed by the time spent on writing/answering questions, it is time well spent since it will save time in the long-run, just as good project planning does."
 - "If you ever are stuck, contact us data stewards at NBIS by sending an email to [data@nbis.se](mailto:data@nbis.se) or ask for a consultation via [our homepage](https://nbis.se/support/supportform/index.php?form=consultation)."
 ---
-## Instructions to get started
-Follow the instruction below in order to get started
+## Instructions
+Follow the instructions below in order to get started
 
-* Go to [DS wizard](https://dsw.scilifelab.se/) and log in with your university credentials by clocking on the orange button.
+* Go to [DS wizard](https://dsw.scilifelab.se/) and log in with your university credentials by clicking on the orange button.
 ![dsw-homepage][dsw-homepage]
 
 
 Click on `Projects` in left-hand margin 
-![projects][projects]
+![projects][/fig/projects]
 
  
 Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select knowledge model named `Intro DMP course module…` and click on `Save`
-![create_project][create_project]
+![create_project][/fig/create_project]
 
 > ## Note
 >
@@ -84,7 +86,7 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 > answered.
 {: .callout}
 
-![chapters][chapters]
+![chapters][/fig/chapters]
 
 > ## Note
 > The answers will be saved automatically.
@@ -93,9 +95,9 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 > what to consider. 
 >
 > For some questions you may provide more than one answer. If you want to add a new 
-> answer click the Add button at the end of your last answer.
+> answer click the `Add` button at the end of your last answer.
 > 
-> When using Add button you might need scroll up in order to get to the first field 
+> When using `Add` button you might need scroll up in order to get to the first field 
 > to be filled.
 {: .callout}
 
