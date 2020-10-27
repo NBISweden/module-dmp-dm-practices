@@ -1,6 +1,6 @@
 ---
 title: "Introduction to data management planning"
-teaching: 15 min
+teaching: 15
 exercises: 0
 questions:
 - "What is a DMP?"
@@ -51,7 +51,7 @@ A DMP is a **living document**, the initial version is written the same time as 
 **Project end:** The DMP is updated a final time with e.g. links to published data and details about archiving (what data and where), so that this document enables future re-use of the project (by yourself or others).
 
 ## How write a DMP?
-Standard DMP templates can typically be found at funder agencies, e.g. [Vetenskapsrådet](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan.html) and [Science Europe](https://www.scienceeurope.org/media/jezkhnoo/se_rdm_practical_guide_final.pdf) and it is of course possible to write in your favorite text editor.
+Standard DMP templates can typically be found at funder agencies, e.g. [Vetenskapsrådet](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan.html) and [Science Europe](https://www.scienceeurope.org/media/jezkhnoo/se_rdm_practical_guide_final.pdf), and it is of course possible to write in your favorite text editor.
 
 However, the questions in these templates are quite high-level, with little or no guidance on how to answer them.
 

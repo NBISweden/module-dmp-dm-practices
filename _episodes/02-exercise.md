@@ -1,9 +1,7 @@
 ---
 title: "Exercise: Write a DMP"
-teaching: 15 min
-exercises: 0
-questions:
-- ""
+teaching: 15
+exercises: 1
 ojectives:
 - "Using information provided in a scenario, create a data management plan using the [Data Stewardship wizard](http://dsw.scilifelab.se/)."
 keypoints:
@@ -12,21 +10,39 @@ keypoints:
 - "If you ever are stuck, contact us data stewards at NBIS by sending an email to [data@nbis.se](mailto:data@nbis.se) or ask for a consultation via [our homepage](https://nbis.se/support/supportform/index.php?form=consultation)."
 ---
 ## Instructions to get started
-Open/download the scenario <link to above text>
+Follow the instruction below in order to get started
 
-Log in to DS wizard with your university credentials
+* Go to [DS wizard](https://dsw.scilifelab.se/) and log in with your university credentials by clocking on the orange button.
+![dsw-homepage][dsw-homepage]
 
 
-Click on Projects in left-hand margin 
-
+Click on `Projects` in left-hand margin 
+![projects][projects]
 
  
+Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select knowledge model named `Intro DMP course module…` and click on `Save`
+![create_project][create_project]
 
-Click on Create in top right corner, name the project <your_name>_test_DMP, select knowledge model named Intro DMP course module… and click on Save
+> ## Note
+>
+> A knowledge model act as a question database/source. For the purpose of this 
+> learning module, a special version has been created, in order to better demonstrate 
+> tool. It is not suitable for creating a real data management plan.
+{: .callout}
+
+## Fill the questionnaire
+The DSW provides a filtering feature that allows you to see questions relevant only to a particular phase of a research project. 
+
+* Make sure the phase `Before Submitting the Proposal` is selected 
+
+* Your questionnaire will be displayed and is ready to be filled. 
+
+* Answer the questions in red (these are the questions that should be answered during the selected phase, questions which belong to other phases are in black) using the provided scenario below.
 
 > ## Scenario
 >
 > **VEGFR2 Y949F mutation**
+>
 > Principal investigator Sam Smith (sam.smith@example.com) at Uppsala University 
 > and [you; as a researcher and contact person], wish to do RNA sequencing of 
 > lung tissue from transgenic mice in order to investigate the effect of a single 
@@ -60,5 +76,27 @@ Click on Create in top right corner, name the project <your_name>_test_DMP, sele
 > been submitted to a publisher. This way the datasets will be backed-up at a remote 
 > location, separate from the Uppmax account.
 {: .solution}
+
+> ## Note
+>
+> Notice that once a question has been answered, it becomes green and the chapter 
+> display becomes ticked instead of showing the number of questions that should be 
+> answered.
+{: .callout}
+
+![chapters][chapters]
+
+> ## Note
+> The answers will be saved automatically.
+>
+> Under most of the questions you will find guidance or advice on how to answer or 
+> what to consider. 
+>
+> For some questions you may provide more than one answer. If you want to add a new 
+> answer click the Add button at the end of your last answer.
+> 
+> When using Add button you might need scroll up in order to get to the first field 
+> to be filled.
+{: .callout}
 
 {% include links.md %}
