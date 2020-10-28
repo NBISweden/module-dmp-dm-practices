@@ -1,5 +1,5 @@
 ---
-title: "Exercise: Write a DMP"
+title: "Exercise: Write a DMP (part 1)"
 teaching: 5
 exercises: 20
 questions:
@@ -9,7 +9,6 @@ objectives:
 keypoints:
 - "There are tools that make the writing process easier."
 - "Do not feel over-whelmed by the time spent on writing/answering questions, it is time well spent since it will save time in the long-run, just as good project planning does."
-- "If you ever are stuck, contact us data stewards at NBIS by sending an email to [data@nbis.se](mailto:data@nbis.se) or ask for a consultation via [our homepage](https://nbis.se/support/supportform/index.php?form=consultation)."
 ---
 ## Instructions
 Follow the instructions below in order to get started
@@ -104,13 +103,13 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 > * Click on `V. Storage and backup` in the `Chapters` display menu and scroll down to 
 > the question `3.b.1.a.3 Is and application for SNIC project done`?
 >
-> ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_1.jpg)
+> ![TODO_1](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_1.jpg)
 >
 > * Click on the `+` sign next to the question.
 >
 > * Notice that you now have 1 TODOs in the orientation bar in the top of the page.
 >
-> ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_2.jpg)
+> ![TODO_2](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_2.jpg)
 {: .solution}
 
 > ## Solution
