@@ -1,7 +1,7 @@
 ---
 title: "Exercise: Write a DMP (part 1)"
 teaching: 5
-exercises: 20
+exercises: 35
 questions:
 - "What does a typical DMP look like?"
 objectives:
