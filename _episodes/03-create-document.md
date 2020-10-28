@@ -8,7 +8,7 @@ objectives:
 - "Using the answers in a DMP, create a document that can be downloaded and shared."
 keypoints:
 - "DS wizard uses templates to generate documents in formats as required by e.g. funders"
-- "If you ever are stuck, contact us data stewards at NBIS by sending an email to [data@nbis.se](mailto:data@nbis.se) or ask for a consultation via [our homepage](https://nbis.se/support/supportform/index.php?form=consultation)."
+- "If you ever are stuck, contact us data stewards at NBIS by sending an email to **[data@nbis.se](mailto:data@nbis.se)** or ask for a consultation via **[our homepage](https://nbis.se/support/supportform/index.php?form=consultation)**."
 ---
 ## Create a document
 When the questions are answered it is time to produce the document with the DMP.
