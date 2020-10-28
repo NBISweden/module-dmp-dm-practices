@@ -98,6 +98,21 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 > ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/chapters.jpg)
 {: .callout}
 
+> ## Add a TODO (optional)
+> The tool has a TODO function, which lets you mark questions where an action is necessary.
+>
+> * Click on `V. Storage and backup` in the `Chapters` display menu and scroll down to 
+> the question `3.b.1.a.3 Is and application for SNIC project done`?
+>
+> ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_1.jpg)
+>
+> * Click on the `+` sign next to the question.
+>
+> * Notice that you now have 1 TODOs in the orientation bar in the top of the page.
+>
+> ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_2.jpg)
+{: .solution}
+
 > ## Solution
 > 
 > Please find a pre-filled DMP here: 
