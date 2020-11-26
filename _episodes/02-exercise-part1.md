@@ -34,22 +34,21 @@ Follow the instructions below in order to get started
 > SciLifeLab Science Europe / VR DMP, when writing a full DMP.
 {: .callout}
 
-## Fill the questionnaire
-The DSW provides a filtering feature that allows you to see questions relevant only to a particular phase of a research project. 
-
-* Make sure the phase `Before Submitting the Proposal` is selected. 
-
+## About the tool
 * The answers will be saved automatically.
 
 *  Under most of the questions you will find guidance or advice on how to answer or what to consider. 
 
 * For some questions you may provide more than one answer. If you want to add a new answer click the `Add` button at the end of your last answer.
  
-* When using `Add` button you might need scroll up in order to get to the first field to be filled.
+    * When using `Add` button you might need scroll up in order to get to the first field to be filled.
+    
+* The DSW provides a filtering feature that allows you to see questions relevant only to a particular phase of a research project. 
 
-* Your questionnaire will be displayed and is ready to be filled. 
+    * Make sure the phase `Before Submitting the Proposal` is selected. 
+    * Answer the questions in red (these are the questions that should be answered during the selected phase, questions which belong to other phases are in black).
 
-* Answer the questions in red (these are the questions that should be answered during the selected phase, questions which belong to other phases are in black) using the provided scenario below.
+You are now ready to answer the questions using the provided scenario below.
 
 > ## Scenario
 >
