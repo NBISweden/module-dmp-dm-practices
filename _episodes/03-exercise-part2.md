@@ -21,13 +21,13 @@ When the questions are answered it is time to produce the document with the DMP.
 
 * Click `Save` 
 
-<p><img style="float:left" alt="document_settings" src="https://nbisweden.github.io/module-dmp-dm-practices/fig/document_settings.jpg"></p>
+<left>![document_settings](https://nbisweden.github.io/module-dmp-dm-practices/fig/document_settings.jpg)
 
 * Now you can click on `Documents` in the navigation bar in the top of the page.
 
 * Since all the setting selections has been made already, click on the `New document` button. 
 
-![document_create](https://nbisweden.github.io/module-dmp-dm-practices/fig/document_create.jpg)
+<left>![document_create](https://nbisweden.github.io/module-dmp-dm-practices/fig/document_create.jpg)
 
 * Then click on `Create` in the appearing window.
 
