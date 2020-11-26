@@ -30,13 +30,14 @@ Follow the instructions below in order to get started
 >
 > A knowledge model act as a question database/source. For the purpose of this 
 > learning module, a special version has been created, in order to better demonstrate 
-> tool. It is not suitable for creating a real data management plan.
+> tool. It is not suitable for creating a real data management plan. We recommend to use a knowledge model called 
+> SciLifeLab Science Europe / VR DMP, when writing a full DMP.
 {: .callout}
 
 ## Fill the questionnaire
 The DSW provides a filtering feature that allows you to see questions relevant only to a particular phase of a research project. 
 
-* Make sure the phase `Before Submitting the Proposal` is selected 
+* Make sure the phase `Before Submitting the Proposal` is selected. 
 
 * The answers will be saved automatically.
 
@@ -107,7 +108,7 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 >
 > * Click on the `+` sign next to the question.
 >
-> * Notice that you now have 1 TODOs in the orientation bar in the top of the page.
+> * Notice that you now have 1 TODOs in the navigation bar in the top of the page.
 >
 > ![TODO_2](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_2.jpg)
 {: .solution}

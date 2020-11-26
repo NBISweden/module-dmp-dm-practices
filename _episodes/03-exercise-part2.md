@@ -13,7 +13,7 @@ keypoints:
 ## Create a document
 When the questions are answered it is time to produce the document with the DMP.
 
-* Click on `Settings` in the orientation bar in the top of the page.
+* Click on `Settings` in the navigation bar in the top of the page.
 
 * Select `SciLifeLab Vetenskapsrådet DMP` from the list of templates.
 
@@ -21,9 +21,9 @@ When the questions are answered it is time to produce the document with the DMP.
 
 * Click `Save` 
 
-![document_settings](https://nbisweden.github.io/module-dmp-dm-practices/fig/document_settings.jpg)
+<img style="float: right;" alt="document_settings" src="https://nbisweden.github.io/module-dmp-dm-practices/fig/document_settings.jpg">
 
-* Now you can click on `Documents` in the orientation bar in the top of the page.
+* Now you can click on `Documents` in the navigation bar in the top of the page.
 
 * Since all the setting selections has been made already, click on the `New document` button. 
 
@@ -44,7 +44,7 @@ When the questions are answered it is time to produce the document with the DMP.
 > 
 > * A stakeholder want to view the answers
 > 
-> In order to make this possible, click on `Share` in the top right corner of the orientation bar.
+> In order to make this possible, click on `Share` in the top right corner of the navigation bar.
 >
 > ![share](https://nbisweden.github.io/module-dmp-dm-practices/fig/share.jpg)
 >
