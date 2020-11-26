@@ -21,7 +21,7 @@ When the questions are answered it is time to produce the document with the DMP.
 
 * Click `Save` 
 
-<img style="float: left;" alt="document_settings" src="https://nbisweden.github.io/module-dmp-dm-practices/fig/document_settings.jpg">
+<br><img style="float: left;" alt="document_settings" src="https://nbisweden.github.io/module-dmp-dm-practices/fig/document_settings.jpg"><br><br>
 
 * Now you can click on `Documents` in the navigation bar in the top of the page.
 
