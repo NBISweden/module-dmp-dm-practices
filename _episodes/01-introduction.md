@@ -10,17 +10,33 @@ questions:
 objectives:
 - "Explain the data management plan what, why, when and how."
 keypoints:
-- "A data management plan (DMP) is a formal document that describes the data produced in the course of a research project."
+- "A data management plan (DMP) is a document that describes the data produced in the course of a research project."
 - "A DMP allows for well-managed data, and funding agencies often requires a DMP for transparency and return on investment."
 - "A DMP is a living document, the first version is written during project planning, and then updated as the project proceeds."
 - "There are standard templates available at e.g. at funder agencies, and tools to assist when writing."
 ---
 ## What is a Data Management Plan?
-A data management plan (DMP) is a formal document that describes the data produced in the course of a research project. 
+A data management plan (DMP) is a document that describes the data produced in the course of a research project. 
 
 It outlines the data management strategies that will be implemented both during the active phase of the research project and after the project ends.
 
 Making plans for how you will collect, document, organize, and preserve your data are all part of the data management strategy.
+
+### The main parts of a DMP
+1. Description of data
+    * What types of data will be created and/or collected, in terms of data format and amount/volume of data?
+2. Documentation
+    * How will the material be documented and described, with associated metadata relating to structure, standards and format for descriptions of the content, collection method, etc.?
+3. Storage and backup
+    * How is data security, storage and backup of data and metadata safeguarded during the research process?
+4. Legal and ethical aspects
+    * How is data handling according to legal requirements safeguarded, e.g. in terms of handling of personal data, confidentiality and intellectual property rights?
+5. Accessibility and long-term storage
+    * How, when and where will research data or information about data (metadata) be made accessible? Deposition to international public repositories.
+    * In what way is long-term storage safeguarded, and by whom? 
+6. Responsibility and resources
+    * Who are the responsible persons for data management?
+    * What resources (costs, labour input or other) will be required for data management?
 
 ## Why write a DMP?
 Well-managed data allows for: 
@@ -57,9 +73,9 @@ However, the questions in these templates are quite high-level, with little or n
 
 Luckily, there are tools to assist you: 
 
-* [DMPOnline](https://dmponline.dcc.ac.uk/) - This is the tool most universities have chosen to offer, good guidance but typically not Life Science specific
+* [DMPOnline](https://dmponline.dcc.ac.uk/) - This is the tool most universities have chosen to offer; Good guidance but typically not Life Science specific
 
-* [Data Stewardship wizard](http://dsw.scilifelab.se/) - SciLifeLab, Life Science specific guidance
+* [Data Stewardship wizard](http://dsw.scilifelab.se/) - Provided by [SciLifeLab](https://www.scilifelab.se); Gives Life Science specific guidance
 
 {% include links.md %}
 
