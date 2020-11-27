@@ -20,11 +20,11 @@ Follow the instructions below in order to get started
 
 * Click on `Projects` in left-hand margin 
 
- ![projects](https://nbisweden.github.io/module-dmp-dm-practices/fig/projects.jpg)
+ ![projects alt <](https://nbisweden.github.io/module-dmp-dm-practices/fig/projects.jpg)
 
 * Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select knowledge model named `Intro DMP course module…` and click on `Save`
 
-![create_project](https://nbisweden.github.io/module-dmp-dm-practices/fig/create_project.jpg)
+![create_project alt <](https://nbisweden.github.io/module-dmp-dm-practices/fig/create_project.jpg)
 
 > ## Note
 >
@@ -94,7 +94,7 @@ You are now ready to answer the questions using the provided scenario below.
 > display becomes ticked instead of showing the number of questions that should be 
 > answered.
 >
-> ![chapters alt <](https://nbisweden.github.io/module-dmp-dm-practices/fig/chapters.jpg)
+> ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/chapters.jpg)
 {: .callout}
 
 > ## Add a TODO (optional)
