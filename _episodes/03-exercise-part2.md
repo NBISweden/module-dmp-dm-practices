@@ -21,22 +21,25 @@ When the questions are answered it is time to produce the document with the DMP.
 
 * Click `Save` 
 
-![document_settings](https://nbisweden.github.io/module-dmp-dm-practices/fig/document_settings.jpg)
+![document_settings](../fig/document_settings.jpg)
 
 * Now you can click on `Documents` in the navigation bar in the top of the page.
 
 * Since all the setting selections has been made already, click on the `New document` button. 
 
-![document_create](https://nbisweden.github.io/module-dmp-dm-practices/fig/document_create.jpg)
+![document_create](../fig/document_create.jpg)
 
 * Then click on `Create` in the appearing window.
 
 * To inspect the resulting document, click on the three vertical dots to the left of the document and select `Download` in the appearing menu.
 
-![document_download](https://nbisweden.github.io/module-dmp-dm-practices/fig/document_download.jpg)
+![document_download](../fig/document_download.jpg)
 
 * Open the downloaded document on your computer, notice how the answers you provided has been gathered to provide answers that fit the format of [Vetenskapsrådets DMP template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan/data-management-plan-template.html).
 
+> ## Solution
+> Follow this link to see an example output: [yvonne_kallberg_testDMP.pdf](../data/yvonne_kallberg_testDMP.pdf)
+{: .solution}
 > ## How to collaborate (Optional)
 > There might be situations where one might want to share a link to a DMP:
 >
@@ -46,11 +49,11 @@ When the questions are answered it is time to produce the document with the DMP.
 > 
 > In order to make this possible, click on `Share` in the top right corner of the navigation bar.
 >
-> ![share](https://nbisweden.github.io/module-dmp-dm-practices/fig/share.jpg)
+> ![share](../fig/share.jpg)
 >
 > Activate the `Public link` and select if you want the person with the link to **view** or **edit**, click on `Save`. 
 >
-> ![share_public_link](https://nbisweden.github.io/module-dmp-dm-practices/fig/share_public_link.jpg)
+> ![share_public_link](../fig/share_public_link.jpg)
 >
 > Now you can copy the link in the address bar (e.g. [https://dsw.scilifelab.se/projects/ff1b1f0f-4424-4d30-9f25-cba804bdacf8](https://dsw.scilifelab.se/projects/ff1b1f0f-4424-4d30-9f25-cba804bdacf8)) and share with whomever you want, without them having to log in!
 {: .solution}

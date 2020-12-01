@@ -15,16 +15,16 @@ Follow the instructions below in order to get started
 
 * Go to [DS wizard](https://dsw.scilifelab.se/) and log in with your university credentials by clicking on the orange button.
 
-![dsw-homepage](https://nbisweden.github.io/module-dmp-dm-practices/fig/dsw-homepage.jpg)
+![dsw-homepage](../fig/dsw-homepage.jpg)
 
 
 * Click on `Projects` in left-hand margin 
 
-![projects](https://nbisweden.github.io/module-dmp-dm-practices/fig/projects.jpg)
+![projects](../fig/projects.jpg)
 
 * Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select knowledge model named `Intro DMP course module…` and click on `Save`
 
-![create_project](https://nbisweden.github.io/module-dmp-dm-practices/fig/create_project.jpg)
+![create_project](../fig/create_project.jpg)
 
 > ## Note
 >
@@ -94,7 +94,7 @@ You are now ready to answer the questions using the provided scenario below.
 > display becomes ticked instead of showing the number of questions that should be 
 > answered.
 >
-> ![chapters](https://nbisweden.github.io/module-dmp-dm-practices/fig/chapters.jpg)
+> ![chapters](../fig/chapters.jpg)
 {: .callout}
 
 > ## Add a TODO (optional)
@@ -103,13 +103,13 @@ You are now ready to answer the questions using the provided scenario below.
 > * Click on `V. Storage and backup` in the `Chapters` display menu and scroll down to 
 > the question `3.b.1.a.3 Is and application for SNIC project done`?
 >
-> ![TODO_1](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_1.jpg)
+> ![TODO_1](../fig/todo_1.jpg)
 >
 > * Click on the `+` sign next to the question.
 >
 > * Notice that you now have 1 TODOs in the navigation bar in the top of the page.
 >
-> ![TODO_2](https://nbisweden.github.io/module-dmp-dm-practices/fig/todo_2.jpg)
+> ![TODO_2](../fig/todo_2.jpg)
 {: .solution}
 
 > ## Solution
