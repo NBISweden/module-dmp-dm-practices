@@ -35,7 +35,7 @@ When the questions are answered it is time to produce the document with the DMP.
 
 ![document_download](https://nbisweden.github.io/module-dmp-dm-practices/fig/document_download.jpg)
 
-* Open the downloaded document on your computer, notice how the answers you provided has been gathered to provide answers that fit the format of [Vetenskapsrådets DMP template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan.html).
+* Open the downloaded document on your computer, notice how the answers you provided has been gathered to provide answers that fit the format of [Vetenskapsrådets DMP template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan/data-management-plan-template.html).
 
 > ## How to collaborate (Optional)
 > There might be situations where one might want to share a link to a DMP:
