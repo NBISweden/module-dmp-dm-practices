@@ -28,10 +28,14 @@ Follow the instructions below in order to get started
 
 > ## Note
 >
-> A knowledge model act as a question database/source. For the purpose of this 
+> * A knowledge model act as a question database/source. For the purpose of this 
 > learning module, a special version has been created, in order to better demonstrate 
 > tool. It is not suitable for creating a real data management plan. We recommend to use a knowledge model called 
 > SciLifeLab Science Europe / VR DMP, when writing a full DMP.
+> 
+> * We will (eventually) delete all projects using this course-specific knowledge model.
+> 
+> * There is a more thourough guide of the wizard in the left-side margin **[Guide - Write a DMP](https://dsw.scilifelab.se/appendix/dsw_instructions/)**
 {: .callout}
 
 ## About the tool
