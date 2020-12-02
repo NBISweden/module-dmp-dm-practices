@@ -7,7 +7,8 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "dc"
+# nbis: National Bioinformatic Infrastructure Sweden
+carpentry: "nbis"
 
 # Overall title for pages.
 title: "Data Management Plan"
@@ -33,6 +34,7 @@ repository: <USERNAME>/<PROJECT>
 email: "team@carpentries.org"
 
 # Sites.
+nbis_site: "https://nbis.se"
 amy_site: "https://amy.carpentries.org/"
 carpentries_github: "https://github.com/carpentries"
 carpentries_pages: "https://carpentries.github.io"
