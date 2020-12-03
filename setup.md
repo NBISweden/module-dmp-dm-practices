@@ -1,11 +1,14 @@
 ---
 title: Setup
 ---
+## Presentation slides
+* Download the [presentation slides](/files/module-dmp-dm-practice.pdf)
+
 ## ELIXIR Authorization and Authentication Infrastructure (AAI)
 
 * Go to page [ELIXIR AAI](https://elixir-europe.org/register)
 
-* Click on ![elixir-aai](https://nbisweden.github.io/module-dmp-dm-practices/fig/elixir-aai.png)
+* Click on ![elixir-aai](/fig/elixir-aai.png)
 
 * Follow instructions to obtain Single Sign-On to life science resources across Europe
 
