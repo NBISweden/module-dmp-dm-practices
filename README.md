@@ -1,4 +1,4 @@
-# Data Management Plan
+# Data Management Plans
 This repository contains a Data Management Plan lesson, a module of the 'Introduction to data management practices' course given by NBIS (National Bioinformatics Infrastructure Sweden).
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
