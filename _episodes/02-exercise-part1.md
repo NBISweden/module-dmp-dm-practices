@@ -68,7 +68,7 @@ You are now ready to answer the questions using the provided scenario below.
 > ensure the data management quality.
 > 
 > The RNA sequencing will be done at the national sequencing facility NGI on an Illumina
-> HiSeq 2500 sequencer, a well described and known machine. There will be 3 replicates
+> HiSeq 2500 sequencer, a well described and known instrument. There will be 3 replicates
 > each of the wild-type and mutant, producing .fastq files with a total size of ~11 GB.  
 > In addition to the sequence datasets, the sequences will be mapped to the reference 
 > genome of Mus musculus, GRCm38 (mm10), available at 
