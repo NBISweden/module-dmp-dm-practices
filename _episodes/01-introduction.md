@@ -44,8 +44,8 @@ A DMP is a good way to obtain **well-managed research data**, and this in turn a
 * verification or refinement of published research results
 * reduces the potential for scientific fraud 
 * promotes new research through the use of existing data
-* provides resources for training new researchers
 * discourages unintentional redundancy in research
+* provides resources for training new researchers
 
 Also, **funding agencies** often requires a DMP:
 
