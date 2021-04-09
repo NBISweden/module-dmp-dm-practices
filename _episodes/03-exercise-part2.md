@@ -38,7 +38,7 @@ When the questions are answered it is time to produce the document with the DMP.
 * Open the downloaded document on your computer, notice how the answers you provided has been gathered to provide answers that fit the format of [Vetenskapsrådets DMP template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan/data-management-plan-template.html).
 
 > ## Solution
-> Follow this link to see an example output: [yvonne_kallberg_testDMP.pdf](../data/yvonne_kallberg_testDMP.pdf)
+> Follow this link to see an example output: [yvonne_kallberg_testDMP.pdf](../files/yvonne_kallberg_testDMP.pdf)
 {: .solution}
 > ## How to collaborate (Optional)
 > There might be situations where one might want to share a link to a DMP:
