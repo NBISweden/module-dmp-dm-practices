@@ -9,6 +9,7 @@
 # cp: Carpentries (to use for instructor traning for instance)
 # nbis: National Bioinformatic Infrastructure Sweden
 carpentry: "nbis"
+remote_theme: NBISweden/styles-dm-practices
 
 # Overall title for pages.
 title: "Data Management Plans"
