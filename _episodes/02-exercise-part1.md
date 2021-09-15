@@ -22,16 +22,13 @@ Follow the instructions below in order to get started
 
 ![projects](../fig/projects.jpg)
 
-* Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select knowledge model named `Intro DMP course module…` and click on `Save`
+* Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select template named `Intro DM course Template` and click on `Save`
 
 ![create_project](../fig/create_project.jpg)
 
 > ## Note
 >
-> * A knowledge model act as a question database/source. For the purpose of this 
-> learning module, a special version has been created, in order to better demonstrate 
-> tool. It is not suitable for creating a real data management plan. We recommend to use a knowledge model called 
-> SciLifeLab Science Europe / VR DMP, when writing a full DMP.
+> * For the purpose of this learning module, a special project template has been created, in order to better demonstrate tool. It is not suitable for creating a real data management plan. We recommend using a template called Vetenskapsrådet DMP Template, when writing a full DMP.
 > 
 > * We will (eventually) delete all projects using this course-specific knowledge model.
 > 
@@ -63,7 +60,7 @@ You are now ready to answer the questions using the provided scenario below.
 > lung tissue from transgenic mice in order to investigate the effect of a single 
 > tyrosine to phenylalanine exchange in the endothelial receptor VEGFR2 at 
 > position Y949. Dr Smith has applied for funding at Vetenskapsrådet. The project 
-> is planned to start 2021-01-01 and continue throughout the year. [you] will attend 
+> is planned to start 2021-10-30 and continue until 2022-05-31. [you] will attend 
 > the course ‘Introduction to data management practices’ given by NBIS in order to 
 > ensure the data management quality.
 > 
@@ -80,7 +77,7 @@ You are now ready to answer the questions using the provided scenario below.
 > Experiment) metadata standard, since this is the standard used by ENA which will 
 > simplify the submission process. In addition, the file organisation and naming 
 > conventions will be documented in a README text file that will be put in the root 
-> folder of the project, and a dictionary of the samples metadata will be created.
+> folder of the project, and a dictionary of the sample metadata will be created.
 > 
 > The analysis will be done by the research group at the SNIC center Uppmax, for which 
 > a project will be applied for. 
@@ -111,7 +108,7 @@ You are now ready to answer the questions using the provided scenario below.
 >
 > * Click on the `+` sign next to the question.
 >
-> * Notice that you now have 1 TODOs in the navigation bar in the top of the page.
+> * Notice that you now have 1 TODOs in top of the page.
 >
 > ![TODO_2](../fig/todo_2.jpg)
 {: .solution}
@@ -119,7 +116,7 @@ You are now ready to answer the questions using the provided scenario below.
 > ## Solution
 > 
 > Please find a pre-filled DMP here: 
-> [https://dsw.scilifelab.se/projects/ff1b1f0f-4424-4d30-9f25-cba804bdacf8](https://dsw.scilifelab.se/projects/ff1b1f0f-4424-4d30-9f25-cba804bdacf8)
+> [https://dsw.scilifelab.se/projects/07d3fb1c-5941-4ac4-98c2-39409573bbb0](https://dsw.scilifelab.se/projects/07d3fb1c-5941-4ac4-98c2-39409573bbb0)
 {: .solution}
 
 {% include links.md %}

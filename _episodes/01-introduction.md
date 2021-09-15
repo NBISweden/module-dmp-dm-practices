@@ -16,11 +16,11 @@ keypoints:
 - "There are standard templates available e.g. at funder agencies, and tools to assist when writing."
 ---
 ## What is a Data Management Plan?
-A data management plan (DMP) is a document that describes the data produced during a research project. 
+A data management plan (DMP) is a living document, that will develop throughout the project, from planning until the project ends.
 
-It outlines the data management strategies that will be implemented both during the active phase of the research project and after the project ends.
+It is a document addressing requirements and practices for managing the project’s data, code and documentation.
 
-Making plans for how you will collect, document, organize, and preserve your data are all part of the data management strategy.
+It outlines the data management strategies in a project. Making plans for how you will collect, document, organize, and preserve your data are all part of the data management strategy.
 
 ### The main parts of a DMP
 1. **Description of data**

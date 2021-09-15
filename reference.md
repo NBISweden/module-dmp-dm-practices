@@ -7,7 +7,7 @@ layout: reference
 | Word | Meaning |
 | ---| --- |
 | DMP | Data Management Plan |
-| DSW | Data Steardship Wizard |
+| DSW | Data Stewardship Wizard |
 | ELIXIR | European infrastructure for life science resources |
 | FAIR | Findable, Accessible, Interoperable, Reusable |
 | NBIS | National Bioinformatics Infrastructure Sweden |
