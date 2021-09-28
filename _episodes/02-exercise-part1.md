@@ -53,31 +53,31 @@ You are now ready to answer the questions using the provided scenario below.
 
 > ## Scenario
 >
-> **VEGFR2 Y949F mutation**
+> **SARS-CoV-2 genomic surveillance in Italy**
 >
 > Principal investigator Sam Smith (sam.smith@example.com) at Uppsala University 
 > and [you; as a researcher and contact person], wish to do RNA sequencing of 
-> lung tissue from transgenic mice in order to investigate the effect of a single 
-> tyrosine to phenylalanine exchange in the endothelial receptor VEGFR2 at 
-> position Y949. Dr Smith has applied for funding at Vetenskapsrådet. The project 
+> nasopharyngeal swab samples taken at a hospital in Italy as part of genomic 
+> surveillance of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 
+> Dr Smith has applied for funding at Vetenskapsrådet. The project 
 > is planned to start 2021-10-30 and continue until 2022-05-31. [you] will attend 
 > the course ‘Introduction to data management practices’ given by NBIS in order to 
 > ensure the data management quality.
 > 
-> The RNA sequencing will be done at the national sequencing facility NGI on an Illumina
-> HiSeq 2500 sequencer, a well described and known instrument. There will be 3 replicates
-> each of the wild-type and mutant, producing .fastq files with a total size of ~11 GB.  
-> In addition to the sequence datasets, the sequences will be mapped to the reference 
-> genome of Mus musculus, GRCm38 (mm10), available at 
-> [https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.20/](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.20/)
+> The RNA sequencing will be done at the national sequencing facility NGI on Illumina
+> NextSeq 500, a well described and known instrument. The sequencing will be made on 91 samples, 
+> producing .fastq files with a total size of ~50 GB.  
+> In addition to the sequence datasets, the sequences will be mapped to a reference 
+> genome of SARS-CoV-2 from isolate Wuhan-Hu-1, available at 
+> [https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2)
 > 
-> In order to ensure experiment quality, calibrating measurements and repeat samples will
->  be done. The steps of the analysis will be documented using R Notebooks. The research 
-> team will use the MINSEQE (Minimal Information about a high throughput SEQuencing 
-> Experiment) metadata standard, since this is the standard used by ENA which will 
-> simplify the submission process. In addition, the file organisation and naming 
-> conventions will be documented in a README text file that will be put in the root 
-> folder of the project, and a dictionary of the sample metadata will be created.
+> In order to ensure experiment quality, calibrating measurements and repeat samples will 
+> be done. The steps of the analysis will be documented using R Notebooks. The research 
+> team will use the ENA virus pathogen reporting standard checklist 
+> [ERC000033](https://www.ebi.ac.uk/ena/browser/view/ERC000033), which is a minimum metadata 
+> standard developed for submission of virus surveillance and outbreak. In addition, the file 
+> organisation and naming conventions will be documented in a README text file that will be put 
+> in the root folder of the project, and a dictionary of the sample metadata will be created.
 > 
 > The analysis will be done by the research group at the SNIC center Uppmax, for which 
 > a project will be applied for. 
