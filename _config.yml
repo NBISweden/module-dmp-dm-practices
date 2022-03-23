@@ -32,7 +32,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "data@nbis.se"
+email: "data-management@scilifelab.se"
 
 # Sites.
 nbis_site: "https://nbis.se"
