@@ -10,13 +10,9 @@ Planning how the data will be managed in a project is as important as project de
 By the end of this lesson you will:
 
 * Know the benefits of DMPs
-
 * Know the sections of a typical DMP
-
 * Know tools to assist in writing a DMP
-
 * Have experience in writing a DMP using an online tool called Data Stewardship Wizard
-
 * Know where to get help in future DMP writing
 
 <!-- this is an html comment -->
