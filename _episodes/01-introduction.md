@@ -10,19 +10,46 @@ questions:
 objectives:
 - "Explain the data management plan what, why, when and how."
 keypoints:
-- "A data management plan (DMP) is a document that describes the data produced in the course of a research project."
-- "A DMP allows for well-managed data, and funding agencies often requires a DMP for transparency and return on investment."
+- "A data management plan (DMP) is a document addressing requirements and practices for managing the project’s data, code and documentation, throughout the data life cycle."
+- "A DMP is the first step towards being **FAIR** in your project, and funding agencies often requires a DMP for transparency and return on investment."
 - "A DMP is a living document, the first version is written during project planning, and is then updated as the project proceeds."
 - "There are standard templates available e.g. at funder agencies, and tools to assist when writing."
 ---
 ## What is a Data Management Plan?
-A data management plan (DMP) is a living document, that will develop throughout the project, from planning until the project ends.
+![now-what-image](/fig/now-what.jpg)
 
-It is a document addressing requirements and practices for managing the project’s data, code and documentation.
+There are a lot of terms regarding data management and a lot of best practices to collect and implement, but how do we gather all the decisions made and how do we know that we have covered it all, that our data will be well managed throughout its life cycle? The answer is to write a data management plan (DMP).
+
+A DMP is a document addressing requirements and practices for managing the project’s data, code and documentation, throughout the data life cycle, i.e from the initial planning until the project ends and beyond.
 
 It outlines the data management strategies in a project. Making plans for how you will collect, document, organize, and preserve your data are all part of the data management strategy.
 
-### The main parts of a DMP
+## Why write a DMP?
+There are several reasons why writing a data management plan is a very good idea:
+* Think of the DMP as a checklist, comparable to a pilot's checklist before take-off, and going through the checklist allows you to **identify gaps** in current data management strategies. Identifying the gaps early on saves a lot of headache and time spent later. Going through the process of planning is more important than the actual plan itself.
+* In a project with several members, it is important to decide on **standards** that all **collaborators** should adhere to, e.g. regarding how to organise the data, how to name it, which metadata standards to use, what vocabularies to use, etc.
+* Writing a DMP also enables you to **estimate costs** regarding data production, storage, data management, etc.
+* It is also a good way to clarify **responsibilities** regarding the data and the data management, e.g. who is responsible for the execution of the DMP.
+* By planning how the data will be managed, there’s greater chance that the research data will be **well-managed** (no guarantee, since you still need to have good strategies and actually implement them for this to happen). Of course there are many benefits with well-managed data but the main ones are:
+  * **reproducibility**, so that the results can be verified
+  * **reusability**, so that this data can be used for answering other scientific questions, thus reducing redundancy
+* A DMP is the first step towards being **FAIR** in your project.
+
+If the reasons above don’t persuade you, the last argument is that it is more and more a **requirement** by funders and other stakeholders:
+* For **transparency** and **openness**: publicly funded research data must be discoverable, accessible, and reusable to the public
+* **Return on investment**: well planned data maximizes the research potential of the data and provides greater returns on public investments and research.
+
+
+## When write a DMP?
+A DMP is a **living document**, the initial version is written the same time as a new project idea is emerging, before e.g. applying for funds, and then successively updated as the project continues and new decisions are made. Ideally it should be updated continously, but there are three major time points:
+
+1. **Project planning:** The DMP should outline the strategies for data management in sufficient detail to be able to estimate the resources needed to implement the DMP, so that this can be included in the proposal for funding (e.g. data production, data analysis, storage during and after project, costs related to publishing of data).
+
+2. **Project start:** The DMP is completed with more details e.g. about documentation, data quality measures, file and folder strategies, etc.
+
+3. **Project end:** The DMP is updated a final time with e.g. links to published data and details about archiving (what data and where), so that this document enables future re-use of the project (by yourself or others).
+
+## The main parts of a DMP
 1. **Description of data**
     * What types of data will be created and/or collected, in terms of data format and amount/volume of data?
 2. **Documentation**
@@ -38,29 +65,6 @@ It outlines the data management strategies in a project. Making plans for how yo
     * Who are the responsible persons for data management?
     * What resources (costs, labour input or other) will be required for data management?
 
-## Why write a DMP?
-A DMP is a good way to obtain **well-managed research data**, and this in turn allows for: 
-
-* verification or refinement of published research results
-* reduces the potential for scientific fraud 
-* promotes new research through the use of existing data
-* discourages unintentional redundancy in research
-* provides resources for training new researchers
-
-Also, **funding agencies** often requires a DMP:
-
-* **For transparency and openness**: publicly funded research data must be discoverable, accessible, and reusable to the public
-* **Return on investment**: well planned data maximizes the research potential of the data and provides greater returns on public investments and research
-
-## When write a DMP?
-A DMP is a **living document**, the initial version is written the same time as a new project idea is emerging, and then successively updated as the project continues and new decisions are made:
-
-**Project planning:** The DMP should outline the strategies for data management in sufficient detail to be able to estimate the resources needed to implement the DMP, so that this can be included in the proposal for funding (e.g. data production, data analysis, storage during and after project, costs related to publishing of data).
-
-**Project start:** The DMP is completed with more details e.g. about documentation, data quality measures, file and folder strategies, etc.
-
-**Project end:** The DMP is updated a final time with e.g. links to published data and details about archiving (what data and where), so that this document enables future re-use of the project (by yourself or others).
-
 ## How write a DMP?
 Standard DMP templates can typically be found at funder agencies, e.g. [Swedish Research Council](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan/data-management-plan-template.html) and [Science Europe](https://www.scienceeurope.org/media/jezkhnoo/se_rdm_practical_guide_final.pdf), and it is of course possible to write in your favorite text editor.
 
@@ -68,9 +72,15 @@ However, the questions in these templates are quite high-level, with little or n
 
 Luckily, there are tools to assist you: 
 
-* [DMPOnline](https://dmponline.dcc.ac.uk/) - The tool most universities have chosen to offer; Good guidance but typically generic and not Life Science specific
+* [DMPOnline](https://dmponline.dcc.ac.uk/) 
+  - The tool most universities have chosen to offer (check with your institute)
+  - Good guidance but typically generic and not Life Science specific
+  - Most often free text answers
 
-* [Data Stewardship wizard](http://dsw.scilifelab.se/) - Provided by [SciLifeLab](https://www.scilifelab.se); Gives Life Science specific guidance
+* [Data Stewardship wizard](http://dsw.scilifelab.se/) 
+  - Provided by [SciLifeLab](https://www.scilifelab.se)
+  - Gives Life Science specific guidance
+  - Less free text answers, instead many questions with answer options
 
 {% include links.md %}
 

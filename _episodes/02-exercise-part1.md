@@ -13,7 +13,7 @@ keypoints:
 ## Instructions
 Follow the instructions below in order to get started
 
-* Go to [DS wizard](https://dsw.scilifelab.se/) and log in with your university credentials by clicking on the orange button.
+* Go to [DS wizard](https://dsw.scilifelab.se/) and log in with your university credentials by clicking on the `Life Science RI (university)` button.
 
 ![dsw-homepage](../fig/dsw-homepage.jpg)
 
