@@ -75,8 +75,8 @@ You are now ready to answer the questions using the provided scenario below. Ans
 > ## Add a TODO (optional)
 > The tool has a TODO function, which lets you mark questions where an action is necessary.
 >
-> * Click on `V. Storage and backup` in the `Chapters` display menu and scroll down to 
-> the question `3.b.1.a.3 Is and application for SNIC project done`?
+> * Click on `I. Overview` in the `Chapters` display menu and go to 
+> the question `1. Contributors`
 >
 > ![TODO_1](../fig/todo_1.jpg)
 >
