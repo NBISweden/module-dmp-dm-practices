@@ -16,7 +16,7 @@ keypoints:
 - "There are standard templates available e.g. at funder agencies, and tools to assist when writing."
 ---
 ## What is a Data Management Plan?
-![now-what-image](/fig/now-what.jpg)
+![now-what-image](../fig/now-what.jpg)
 
 There are a lot of terms regarding data management and a lot of best practices to collect and implement, but how do we gather all the decisions made and how do we know that we have covered it all, that our data will be well managed throughout its life cycle? The answer is to write a data management plan (DMP).
 
