@@ -15,17 +15,17 @@ When the questions are answered it is time to produce the document with the DMP.
 
 * Click on `Documents` in the navigation bar in the top of the page, and then click on the `New document` button.
 
-![document_create](../fig/document_create.jpg)
+    ![document_create](../fig/document_create.jpg)
 
 
 * In this view your can change document name, template and output format, but we are happy with the default settings. Click `Create`. 
 
-![document_settings](../fig/document_settings.jpg)
+    ![document_settings](../fig/document_settings.jpg)
 
 
 * To inspect the resulting document, click on the three vertical dots to the left of the document and select `Download` in the appearing menu.
 
-![document_download](../fig/document_download.jpg)
+    ![document_download](../fig/document_download.jpg)
 
 * Open the downloaded document on your computer, notice how the answers you provided has been gathered to provide answers that fit the format of [Vetenskapsrådets DMP template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan/data-management-plan-template.html).
 
@@ -46,7 +46,7 @@ When the questions are answered it is time to produce the document with the DMP.
 >
 > There are three ways of sharing: Add user, enable visibility, and creating a public link.
 >
-> Activate the `Public link` and select if you want the person with the link to **view** or **edit**, click on `Save`. 
+> Activate the `Public link` and select if you want the person with the link to **view**, **comment**, or **edit**, click on `Save`. 
 >
 > ![share_public_link](../fig/share_public_link.jpg)
 >

@@ -20,11 +20,11 @@ Follow the instructions below in order to get started
 
 * Click on `Projects` in left-hand margin 
 
-![projects](../fig/projects.jpg)
+    ![projects](../fig/projects.jpg)
 
 * Click on `Create` in top right corner, name the project `<your_name>_test_DMP`, select template named `Intro DM course DMP Template` and click on `Save`
 
-![create_project](../fig/create_project.jpg)
+    ![create_project](../fig/create_project.jpg)
 
 > ## Note
 >
