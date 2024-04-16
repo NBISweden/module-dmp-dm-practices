@@ -30,7 +30,7 @@ When the questions are answered it is time to produce the document with the DMP.
 * Open the downloaded document on your computer, notice how the answers you provided has been gathered to provide answers that fit the format of [Vetenskapsrådets DMP template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan/data-management-plan-template.html).
 
 > ## Solution
-> Follow this link to see an example output: [yvonne_kallberg_testDMP.pdf](../files/yvonne_kallberg_test_DMP.pdf)
+> Follow this link to see an example output: [yvonne_kallberg_test_DMP.pdf](../files/yvonne_kallberg_test_DMP.pdf)
 {: .solution}
 
 > ## How to collaborate (Optional)
@@ -50,7 +50,7 @@ When the questions are answered it is time to produce the document with the DMP.
 >
 > ![share_public_link](../fig/share_public_link.jpg)
 >
-> Now you can copy the link in the address bar (e.g. [https://dsw.scilifelab.se/projects/07d3fb1c-5941-4ac4-98c2-39409573bbb0](https://dsw.scilifelab.se/projects/07d3fb1c-5941-4ac4-98c2-39409573bbb0)) and share with whomever you want, without them having to log in!
+> Now you can copy the link in the address bar (e.g. [https://dsw.scilifelab.se/projects/9e96f8a0-9422-449a-bf72-81dea7a9cd9d](https://dsw.scilifelab.se/projects/9e96f8a0-9422-449a-bf72-81dea7a9cd9d)) and share with whomever you want, without them having to log in!
 >
 > **Note:** We recommend to only allow anonymous users (i.e. those not specifically added to the project) to view, not edit. If you need a collaborator to add or update information in the project, use the `Add user` functionality instead.
 {: .solution}
