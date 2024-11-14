@@ -1,6 +1,7 @@
 ---
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
+permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 *“In preparing for battle I have always found that plans are useless, but planning is indispensable.”* Dwight D. Eisenhower
 
