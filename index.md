@@ -21,7 +21,7 @@ By the end of this lesson you will:
 
 > ## Prerequisites
 >
-> Follow the instructions in [Setup](https://nbisweden.github.io/module-dmp-dm-practices/setup.html) in order to be prepared for the excercise part of this lesson.
+> Follow the instructions in [Setup]({% link setup.md %}) in order to be prepared for the excercise part of this lesson.
 {: .prereq}
 
 {% include links.md %}
