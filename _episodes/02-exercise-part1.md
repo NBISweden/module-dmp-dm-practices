@@ -90,7 +90,7 @@ You are now ready to answer the questions using the provided scenario below. Ans
 > ## Solution
 > 
 > Please find a pre-filled DMP here: 
-> [https://dsw.scilifelab.se/projects/9e96f8a0-9422-449a-bf72-81dea7a9cd9d](https://dsw.scilifelab.se/projects/9e96f8a0-9422-449a-bf72-81dea7a9cd9d)
+> [https://dsw.scilifelab.se/wizard/projects/9e96f8a0-9422-449a-bf72-81dea7a9cd9d](https://dsw.scilifelab.se/wizard/projects/9e96f8a0-9422-449a-bf72-81dea7a9cd9d)
 {: .solution}
 
 {% include links.md %}
