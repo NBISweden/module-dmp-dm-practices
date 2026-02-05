@@ -51,17 +51,35 @@ A DMP is a **living document**, the initial version is written the same time as 
 
 ## The main parts of a DMP
 1. **Description of data**
+
+    ![data description topics to cover](../fig/data_description.PNG)
     * What types of data will be created and/or collected, in terms of data format and amount/volume of data?
+
+
 2. **Documentation**
+
+    ![documentation topics to cover](../fig/documentation.PNG)
     * How will the material be documented and described, with associated metadata relating to structure, standards and format for descriptions of the content, collection method, etc.?
+
 3. **Storage and backup**
+
+    ![storage and backup topics to cover](../fig/storage_backup.PNG)
     * How is data security, storage and backup of data and metadata safeguarded during the research process?
+
 4. **Legal and ethical aspects**
+
+    ![legal topics to cover](../fig/legal.PNG)
     * How is data handling according to legal requirements safeguarded, e.g. in terms of handling of personal data, confidentiality and intellectual property rights?
+
 5. **Accessibility and long-term storage**
+
+    ![accessibility and long-term storage topics to cover](../fig/accessibility.PNG)
     * How, when and where will research data or information about data (i.e. metadata) be made accessible? E.g. via deposition to international public repositories.
     * In what way is long-term storage safeguarded, and by whom? 
+
 6. **Responsibility and resources**
+
+    ![responsibilities and resources topics to cover](../fig/resources_dm.PNG)
     * Who are the responsible persons for data management?
     * What resources (costs, labour input or other) will be required for data management?
 
