@@ -1,7 +1,6 @@
 ---
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
-permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 *“In preparing for battle I have always found that plans are useless, but planning is indispensable.”* Dwight D. Eisenhower
 
@@ -21,7 +20,7 @@ By the end of this lesson you will:
 
 > ## Prerequisites
 >
-> Follow the instructions in [Setup](https://nbisweden.github.io/module-dmp-dm-practices/setup.html) in order to be prepared for the excercise part of this lesson.
+> Follow the instructions in [Setup](setup.html) in order to be prepared for the excercise part of this lesson.
 {: .prereq}
 
 {% include links.md %}
