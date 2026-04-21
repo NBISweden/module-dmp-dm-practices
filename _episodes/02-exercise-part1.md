@@ -58,7 +58,7 @@ You are now ready to answer the questions using the provided scenario below. Ans
 > 
 > In order to ensure experiment quality, calibrating measurements and repeat samples will be done. The steps of the sample collecting will be documented using the university electronic lab notebook system. The research team will use the ENA virus pathogen reporting standard checklist [ERC000033](https://www.ebi.ac.uk/ena/browser/view/ERC000033), which is a minimum metadata standard developed for submission of virus surveillance and outbreak. In addition, the file organisation and naming conventions will be documented in a README text file that will be put in the root folder of the project, and a dictionary of the sample metadata will be created.
 > 
-> The analysis will be done by the research group at a High Performance Compute cluster at a NAISS, for which a project will be applied for. 
+> The analysis will be done by the research group at a NAISS High Performance Compute (HPC) cluster, for which a project will be applied for. 
 > 
 > This project adheres to Open Science and FAIR principles, so the sequencing datasets will be published in European Nucleotide Archive (ENA) at the time of arrival, and will be put under an embargo for one year until the analysis has been done and a paper has been submitted to a publisher. This way the datasets will be backed-up at a remote location, separate from the NAISS storage. The dataset will receive a persistent identifier and be available under a Creative Commons Zero license.
 {: .solution}
